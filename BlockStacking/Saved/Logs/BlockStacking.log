@@ -2464,3 +2464,1345 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-21.44.01:309][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.30-21.44.01:309][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.30-21.44.01:309][ 49]AssetCheck: /Game/Characters/Player/BP_Pawn_Player Validating asset
+[2024.12.30-21.46.35:954][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1738.437744
+[2024.12.30-21.46.36:954][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-21.46.36:954][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1739.105957, Update Interval: 331.072113
+[2024.12.30-21.52.02:245][474]Cmd: DELETE
+[2024.12.30-21.52.02:245][474]Cmd: ACTOR DELETE
+[2024.12.30-21.52.02:249][474]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.30-21.52.02:276][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.12.30-21.52.02:279][474]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.12.30-21.52.08:497][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.30-21.52.08:504][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.52.08:571][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.30-21.52.08:589][212]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-21.52.08:590][212]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_01B9A8092B4F9C5FDA4E70BBAB962C6AD0.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-21.52.08:598][212]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.067
+[2024.12.30-21.52.08:605][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.354 ms (total: 1.26 sec)
+[2024.12.30-21.52.08:635][212]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.52.08:635][212]LogContentValidation: Enabled validators:
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.52.08:635][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.52.08:636][212]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-21.52.18:713][131]LogSlate: Window 'Message' being destroyed
+[2024.12.30-21.52.18:717][131]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+PrototypeMap_01
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.30-21.52.28:164][970]LogSlate: Window 'Message' being destroyed
+[2024.12.30-21.52.28:168][970]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+PrototypeMap_01
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.30-21.52.31:161][295]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.30-21.52.31:167][295]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.52.37:558][ 29]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-21.52.40:282][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2102.769043
+[2024.12.30-21.52.40:374][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-21.52.40:374][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2102.852539, Update Interval: 301.507019
+[2024.12.30-21.52.44:459][827]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.30-21.52.44:477][827]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.30-21.52.44:484][828]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.30-21.52.47:163][150]LogContentBrowser: Attempting asset rename: NewFolder -> World
+[2024.12.30-21.52.47:163][150]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.30-21.53.00:874][773]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-21.53.20:583][123]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-21.53.27:309][589]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.30-21.53.27:315][589]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.30-21.53.27:319][589]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.30-21.53.27:336][591]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.30-21.53.38:113][870]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_InteractableWorld
+[2024.12.30-21.53.38:119][870]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.30-21.53.38:810][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.30-21.53.38:817][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.53.38:845][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.53.38:845][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.53.38:845][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.53.38:848][945]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.53.38:848][945]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorldCCF06CAA488A8430F6275FA75EBC034D.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.53.38:857][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.358 ms (total: 1.30 sec)
+[2024.12.30-21.53.38:885][945]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.53.38:885][945]LogContentValidation: Enabled validators:
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.53.38:885][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.53.38:885][945]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.53.46:962][773]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.30-21.53.46:967][773]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.30-21.53.46:973][773]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.30-21.53.46:979][774]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.30-21.53.54:266][648]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_WorldCopiesManager
+[2024.12.30-21.53.54:273][648]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.30-21.53.54:942][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.30-21.53.54:946][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.53.54:973][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-21.53.54:973][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-21.53.54:973][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-21.53.54:975][723]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-21.53.54:975][723]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager6CA66F114D452A8E72402180EF87AEE5.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-21.53.54:984][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.874 ms (total: 1.34 sec)
+[2024.12.30-21.53.55:012][723]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.53.55:012][723]LogContentValidation: Enabled validators:
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.53.55:013][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.53.55:013][723]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-21.54.01:604][226]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.30-21.54.01:609][226]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.30-21.54.01:613][226]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.30-21.54.01:621][227]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.30-21.54.06:542][810]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_WorldCopies
+[2024.12.30-21.54.06:548][810]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.30-21.54.07:125][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-21.54.07:130][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.54.07:158][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopies] ([2] browsable assets)...
+[2024.12.30-21.54.07:158][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopies]
+[2024.12.30-21.54.07:158][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopies" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset" SILENT=true
+[2024.12.30-21.54.07:161][874]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopies
+[2024.12.30-21.54.07:162][874]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesF50850E14021D80A772352834C69817D.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset'
+[2024.12.30-21.54.07:178][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.134 ms (total: 1.39 sec)
+[2024.12.30-21.54.07:206][874]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.54.07:206][874]LogContentValidation: Enabled validators:
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.54.07:206][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.54.07:206][874]AssetCheck: /Game/World/BP_WorldCopies Validating asset
+[2024.12.30-21.54.11:734][414]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/World/BP_InteractableWorld.BP_InteractableWorld
+[2024.12.30-21.54.11:734][414]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.12.30-21.55.07:976][796]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.55.07:981][796]LogStaticMesh: Display: Building static mesh SM_Cube_02 (Required Memory Estimate: 1.998323 MB)...
+[2024.12.30-21.55.07:989][796]LogStaticMesh: Built static mesh [0.01s] /Engine/VREditor/BasicMeshes/SM_Cube_02.SM_Cube_02
+[2024.12.30-21.55.10:851][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.30-21.55.11:424][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.55.11:445][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.55.11:445][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.55.11:445][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.55.11:448][195]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.55.11:449][195]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorldD2CE2EA445F3D2CD87B438A353A4899D.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.55.11:455][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.936 ms (total: 1.42 sec)
+[2024.12.30-21.55.11:487][195]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.55.11:487][195]LogContentValidation: Enabled validators:
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.55.11:487][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.55.11:487][195]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.55.13:536][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_InteractableWorld.BP_InteractableWorld_C
+[2024.12.30-21.55.13:537][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_InteractableWorld.BP_InteractableWorld_C
+[2024.12.30-21.55.13:538][423]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_InteractableWorld.BP_InteractableWorld as actor: BP_InteractableWorld_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_InteractableWorld_C_0
+[2024.12.30-21.55.13:539][423]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_InteractableWorld.BP_InteractableWorld as actor: BP_InteractableWorld_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_InteractableWorld_C_0
+[2024.12.30-21.55.13:958][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-21.55.13:961][466]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2024.12.30-21.55.13:967][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_InteractableWorld.BP_InteractableWorld_C
+[2024.12.30-21.55.13:967][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_InteractableWorld.BP_InteractableWorld_C
+[2024.12.30-21.55.13:969][466]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_InteractableWorld.BP_InteractableWorld as actor: BP_InteractableWorld_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_InteractableWorld_C_1
+[2024.12.30-21.55.13:970][466]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_InteractableWorld.BP_InteractableWorld as actor: BP_InteractableWorld_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_InteractableWorld_C_1
+[2024.12.30-21.55.16:762][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.12.30-21.55.55:114][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.30-21.56.10:894][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.30-21.56.12:259][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.56.12:277][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.56.12:277][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.56.12:277][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.56.12:281][902]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.56.12:281][902]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld70C215CC4D20277C32E532B83F388771.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.56.12:289][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.032 ms (total: 1.45 sec)
+[2024.12.30-21.56.12:311][902]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.56.12:311][902]LogContentValidation: Enabled validators:
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.56.12:311][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.56.12:311][902]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.56.16:658][303]LogSlate: Window 'BP_InteractableWorld' being destroyed
+[2024.12.30-21.56.23:918][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-21.56.24:359][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.56.24:379][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.56.24:379][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.56.24:379][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.56.24:383][209]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.56.24:383][209]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld66BB7A58414E6EAF2DCA74BED0535A9D.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.56.24:389][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.643 ms (total: 1.48 sec)
+[2024.12.30-21.56.24:407][209]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.56.24:407][209]LogContentValidation: Enabled validators:
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.56.24:407][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.56.24:407][209]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.56.26:956][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C
+[2024.12.30-21.56.26:956][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C
+[2024.12.30-21.56.26:957][484]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager as actor: BP_WorldCopiesManager_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_WorldCopiesManager_C_0
+[2024.12.30-21.56.26:958][484]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager as actor: BP_WorldCopiesManager_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_WorldCopiesManager_C_0
+[2024.12.30-21.56.27:348][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-21.56.27:353][522]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2024.12.30-21.56.27:359][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C
+[2024.12.30-21.56.27:360][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C
+[2024.12.30-21.56.27:361][522]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager as actor: BP_WorldCopiesManager_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_WorldCopiesManager_C_1
+[2024.12.30-21.56.27:361][522]LogActorFactory: Actor Factory spawned Blueprint /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager as actor: BP_WorldCopiesManager_C /Game/Environment/PrototypeMap_01.PrototypeMap_01:PersistentLevel.BP_WorldCopiesManager_C_1
+[2024.12.30-21.56.38:839][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-21.56.41:971][181]LogShaderCompilers: Display: ================================================
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Total job queries 520, among them cache hits 16 (3.08%), DDC hits 472 (90.77%), Duplicates 10 (1.92%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Tracking 494 distinct input hashes that result in 449 distinct outputs (90.89%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: RAM used: 283.15 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Shaders Compiled: 22
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Average time worker was idle: 5.65 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.88 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.91
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Shader code size: average 7.867 KiB, min 2.691 KiB, max 11.785 KiB
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.75 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Average processing rate: 5.86 jobs/sec
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Total thread time: 9.953 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Total thread preprocess time: 13.03 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Percentage time preprocessing: 130.91%
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Effective parallelization: 2.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.85 sec, max 0.86 sec, min 0.85 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.78 sec, max 0.86 sec, min 0.69 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.51 sec, max 0.59 sec, min 0.39 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.35 sec, max 0.42 sec, min 0.26 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.47% of total time (compiled    4 times, average 0.51 sec, max 0.59 sec, min 0.39 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.16% of total time (compiled    2 times, average 0.85 sec, max 0.86 sec, min 0.85 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.66% of total time (compiled    2 times, average 0.78 sec, max 0.86 sec, min 0.69 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.05% of total time (compiled    4 times, average 0.35 sec, max 0.42 sec, min 0.26 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.68% of total time (compiled    4 times, average 0.34 sec, max 0.40 sec, min 0.24 sec)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: === Material stats ===
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Materials Translated:    165
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Material Translation Only: 0.08 s (67%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2024.12.30-21.56.41:972][181]LogShaderCompilers: Display: ================================================
+[2024.12.30-21.56.47:842][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-21.56.48:641][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.56.48:661][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.56.48:662][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.56.48:662][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.56.48:664][945]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.56.48:665][945]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld875BDBE24F4EEECFA280B2A6E1292AF0.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.56.48:672][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.292 ms (total: 1.51 sec)
+[2024.12.30-21.56.48:702][945]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.56.48:702][945]LogContentValidation: Enabled validators:
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.56.48:702][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.56.48:702][945]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.57.11:931][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.30-21.57.13:256][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.57.13:283][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-21.57.13:283][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-21.57.13:283][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-21.57.13:286][771]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-21.57.13:288][771]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld1D28E786434CC939107526952FFD0C19.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-21.57.13:295][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.569 ms (total: 1.55 sec)
+[2024.12.30-21.57.13:325][771]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.57.13:325][771]LogContentValidation: Enabled validators:
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.57.13:325][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.57.13:325][771]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-21.57.18:532][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.57.18:593][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.30-21.57.18:616][361]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-21.57.18:617][361]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_01A2E9BCFE47D2843D5EC09BAAE73732FB.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-21.57.18:631][361]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.078
+[2024.12.30-21.57.18:638][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.507 ms (total: 1.65 sec)
+[2024.12.30-21.57.18:655][361]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.57.18:655][361]LogContentValidation: Enabled validators:
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.57.18:655][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.57.18:656][361]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-21.57.22:793][840]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager
+[2024.12.30-21.57.22:793][840]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.30-21.57.30:784][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.30-21.58.16:191][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-21.58.16:714][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.58.16:743][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-21.58.16:743][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-21.58.16:743][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-21.58.16:746][116]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-21.58.16:747][116]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager0DFBD0CA40413E44B692F4B66EC644C6.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-21.58.16:753][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.515 ms (total: 1.69 sec)
+[2024.12.30-21.58.16:783][116]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.58.16:784][116]LogContentValidation: Enabled validators:
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.58.16:784][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.58.16:784][116]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-21.58.18:462][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2440.961670
+[2024.12.30-21.58.18:562][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-21.58.18:562][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2441.052979, Update Interval: 339.365204
+[2024.12.30-22.00.04:625][441]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.04:625][441]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.04:678][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.30-22.00.04:681][441]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.04:681][441]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.04:686][441]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.04:686][441]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.05:319][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.00.05:345][508]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.00.05:345][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.00.05:345][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.00.05:349][508]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.00.05:349][508]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManagerC4A65B054C890E122D4158B247D26C82.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.00.05:356][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.991 ms (total: 1.73 sec)
+[2024.12.30-22.00.05:394][508]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.00.05:394][508]LogContentValidation: Enabled validators:
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.00.05:394][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.00.05:394][508]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.00.09:026][898]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.09:026][898]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.15:744][670]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.15:744][670]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.53:455][181]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.53:455][181]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.00.53:915][224]LogSlate: Took 0.000692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.30-22.00.56:292][506]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.00.56:292][506]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.01.05:852][644]LogScript: Warning: Accessed None trying to read property InteractableWorld
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0054
+[2024.12.30-22.01.05:852][644]LogScript: Warning: Accessed None
+	BP_WorldCopiesManager_C /Engine/Transient.World_6:PersistentLevel.BP_WorldCopiesManager_C_0
+	Function /Game/World/BP_WorldCopiesManager.BP_WorldCopiesManager_C:UserConstructionScript:0069
+[2024.12.30-22.01.06:672][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.01.06:678][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.01.06:706][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.01.06:706][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.01.06:706][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.01.06:710][736]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.01.06:710][736]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManagerFDC0320D4CBE663600AF7B9633E20314.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.01.06:716][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.328 ms (total: 1.76 sec)
+[2024.12.30-22.01.06:748][736]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.01.06:748][736]LogContentValidation: Enabled validators:
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.01.06:748][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.01.06:748][736]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.01.39:586][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-22.01.40:129][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.01.40:156][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.01.40:157][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.01.40:157][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.01.40:160][530]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.01.40:161][530]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager08C2D6AF47ED1E82AAC3B4A78FAAEB0F.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.01.40:168][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.525 ms (total: 1.80 sec)
+[2024.12.30-22.01.40:190][530]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.01.40:190][530]LogContentValidation: Enabled validators:
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.01.40:190][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.01.40:190][530]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.02.12:067][292]LogBlueprint: Error: [AssetLog] C:\code\2024Q4\BlockStacking2024\BlockStacking\Content\World\BP_WorldCopiesManager.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2024.12.30-22.02.12:075][292]LogStreaming: Display: FlushAsyncLoading(663): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-22.02.12:127][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.04.21:328][233]LogBlueprint: Error: [AssetLog] C:\code\2024Q4\BlockStacking2024\BlockStacking\Content\World\BP_WorldCopiesManager.uasset: [Compiler] The current value (2.000000) of the ' B ' pin is invalid: Expected a valid number for an integer property
+[2024.12.30-22.04.21:388][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.12.30-22.04.22:164][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.04.22:187][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.04.22:187][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.04.22:187][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.04.22:194][315]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.04.22:194][315]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager0D0F00D542317D71C558FB9284C31241.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.04.22:201][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.609 ms (total: 1.84 sec)
+[2024.12.30-22.04.22:228][315]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.04.22:229][315]LogContentValidation: Enabled validators:
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.04.22:229][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.04.22:229][315]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.04.37:586][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.30-22.04.38:196][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.04.38:224][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.04.38:224][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.04.38:224][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.04.38:230][167]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.04.38:232][167]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager9E51D5D54573A25F6516C2A9112D1B52.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.04.38:238][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.996 ms (total: 1.88 sec)
+[2024.12.30-22.04.38:266][167]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.04.38:266][167]LogContentValidation: Enabled validators:
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.04.38:266][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.04.38:266][167]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.04.42:104][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.04.42:124][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.04.42:124][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.04.42:124][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.04.42:131][621]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.04.42:132][621]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManagerB9832EB14D31858AA2BE2C9654FBF014.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.04.42:138][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.671 ms (total: 1.92 sec)
+[2024.12.30-22.04.42:165][621]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.04.42:165][621]LogContentValidation: Enabled validators:
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.04.42:165][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.04.42:165][621]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.04.44:413][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.04.44:419][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.04.44:442][867]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.04.44:445][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2024.12.30-22.04.44:445][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003942s)
+[2024.12.30-22.04.44:472][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-22.04.44:475][867]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.04.44:476][867]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2024.12.30-22.04.44:477][867]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.04.44:477][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.04.44:477][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.04.44:477][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.04.44:477][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.04.44:477][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.04.44:479][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.04.44:507][867]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.04.44:507][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.04.44:507][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.04.44:507][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.04.44:508][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.30-22.04.44:508][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.30-22.04.44:509][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.30-22.04.44:509][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.30-22.04.44:509][867]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.30-22.04.44:509][867]LogAudio: Display: Audio Device (ID: 10) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.04.44:509][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.30-22.04.44:513][867]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.04.44:513][867]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.04.44
+[2024.12.30-22.04.44:514][867]LogWorld: Bringing up level for play took: 0.001306
+[2024.12.30-22.04.44:516][867]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.12.30-22.04.44:521][867]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.04.44:524][867]PIE: Server logged in
+[2024.12.30-22.04.44:525][867]PIE: Play in editor total start time 0.106 seconds.
+[2024.12.30-22.04.48:124][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2830.610352
+[2024.12.30-22.04.48:224][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-22.04.48:224][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2830.702881, Update Interval: 313.517273
+[2024.12.30-22.04.57:012][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.04.57:013][346]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.04.57:013][346]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.04.57:013][346]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.04.57:013][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.04.57:022][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.04.57:030][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.04.57:056][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.04.57:057][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.30-22.04.57:057][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.30-22.04.57:059][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.30-22.04.57:065][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.04.57:107][347]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.12.30-22.05.08:817][676]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.30-22.05.10:680][892]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.30-22.05.13:463][213]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.30-22.05.15:992][494]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.05.15:999][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.05.16:042][494]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.05.16:046][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003960s)
+[2024.12.30-22.05.16:046][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003994s)
+[2024.12.30-22.05.16:071][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-22.05.16:073][494]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.05.16:075][494]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2024.12.30-22.05.16:076][494]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.05.16:076][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.05.16:076][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.05.16:076][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.05.16:076][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.05.16:076][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.05.16:078][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.05.16:104][494]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.05.16:104][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.05.16:104][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.05.16:104][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.05.16:105][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.30-22.05.16:105][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.12.30-22.05.16:107][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.30-22.05.16:107][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.30-22.05.16:107][494]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.30-22.05.16:107][494]LogAudio: Display: Audio Device (ID: 11) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.05.16:107][494]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.30-22.05.16:109][494]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.05.16:110][494]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.05.16
+[2024.12.30-22.05.16:111][494]LogWorld: Bringing up level for play took: 0.001258
+[2024.12.30-22.05.16:113][494]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.30-22.05.16:118][494]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.05.16:121][494]PIE: Server logged in
+[2024.12.30-22.05.16:122][494]PIE: Play in editor total start time 0.123 seconds.
+[2024.12.30-22.05.24:792][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.05.24:792][517]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.05.24:792][517]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.05.24:793][517]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.05.24:793][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.05.24:802][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.05.24:811][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.05.24:836][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.05.24:836][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.30-22.05.24:837][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.30-22.05.24:839][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.30-22.05.24:844][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-22.05.24:901][518]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.30-22.05.29:148][982]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.30-22.05.31:429][243]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.30-22.05.32:674][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.05.32:689][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.05.32:722][385]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.05.32:725][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003932s)
+[2024.12.30-22.05.32:725][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003964s)
+[2024.12.30-22.05.32:750][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.30-22.05.32:754][385]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.05.32:755][385]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2024.12.30-22.05.32:756][385]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.05.32:756][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.05.32:756][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.05.32:756][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.05.32:756][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.05.32:756][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.05.32:758][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.05.32:784][385]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.05.32:784][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.05.32:784][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.05.32:784][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.05.32:784][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.30-22.05.32:784][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.30-22.05.32:786][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.30-22.05.32:786][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.30-22.05.32:786][385]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.30-22.05.32:786][385]LogAudio: Display: Audio Device (ID: 12) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.05.32:786][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.30-22.05.32:789][385]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.05.32:790][385]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.05.32
+[2024.12.30-22.05.32:791][385]LogWorld: Bringing up level for play took: 0.001252
+[2024.12.30-22.05.32:793][385]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.30-22.05.32:797][385]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.05.32:800][385]PIE: Server logged in
+[2024.12.30-22.05.32:801][385]PIE: Play in editor total start time 0.112 seconds.
+[2024.12.30-22.05.36:182][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.05.36:183][774]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.05.36:183][774]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.05.36:183][774]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.05.36:183][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.05.36:187][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.05.36:194][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.05.36:220][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.05.36:221][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.30-22.05.36:221][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.30-22.05.36:222][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.30-22.05.36:228][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.30-22.05.36:284][775]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.30-22.06.00:679][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.06.00:752][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.06.00:772][609]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-22.06.00:773][609]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_01A23182B9428FA99AADDAD1A20B617486.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-22.06.00:779][609]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.077
+[2024.12.30-22.06.00:788][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.507 ms (total: 2.02 sec)
+[2024.12.30-22.06.00:814][609]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.06.00:814][609]LogContentValidation: Enabled validators:
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.06.00:814][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.06.00:814][609]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-22.06.14:941][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.30-22.06.15:360][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.06.15:379][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.06.15:379][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.06.15:380][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.06.15:386][306]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.06.15:386][306]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager896987A54ACB986BCDF248AFBE4106E4.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.06.15:393][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.973 ms (total: 2.06 sec)
+[2024.12.30-22.06.15:419][306]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.06.15:419][306]LogContentValidation: Enabled validators:
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.06.15:419][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.06.15:419][306]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.06.16:538][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.06.16:544][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.06.16:581][419]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.06.16:585][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003804s)
+[2024.12.30-22.06.16:585][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003835s)
+[2024.12.30-22.06.16:613][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.30-22.06.16:615][419]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.06.16:617][419]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2024.12.30-22.06.16:618][419]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.06.16:618][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.06.16:618][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.06.16:618][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.06.16:618][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.06.16:618][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.06.16:619][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.06.16:645][419]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.06.16:645][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.06.16:645][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.06.16:645][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.06.16:646][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.30-22.06.16:646][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.30-22.06.16:648][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.30-22.06.16:648][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.30-22.06.16:648][419]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.30-22.06.16:648][419]LogAudio: Display: Audio Device (ID: 13) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.06.16:648][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.30-22.06.16:651][419]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.06.16:652][419]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.06.16
+[2024.12.30-22.06.16:652][419]LogWorld: Bringing up level for play took: 0.001236
+[2024.12.30-22.06.16:654][419]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.30-22.06.16:662][419]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.06.16:664][419]PIE: Server logged in
+[2024.12.30-22.06.16:665][419]PIE: Play in editor total start time 0.122 seconds.
+[2024.12.30-22.06.28:312][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.06.28:313][796]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.06.28:313][796]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.06.28:313][796]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.06.28:313][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.06.28:322][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.06.28:330][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.06.28:357][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.06.28:357][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.30-22.06.28:357][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.30-22.06.28:358][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.30-22.06.28:366][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.06.28:414][797]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.30-22.06.43:826][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.06.44:283][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.06.44:309][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-22.06.44:309][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-22.06.44:309][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-22.06.44:314][585]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-22.06.44:314][585]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld6701A4B34834FFFB843829A80C6A1D6A.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-22.06.44:321][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.340 ms (total: 2.10 sec)
+[2024.12.30-22.06.44:351][585]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.06.44:351][585]LogContentValidation: Enabled validators:
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.06.44:351][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.06.44:351][585]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-22.06.45:513][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.06.45:518][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.06.45:551][715]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.06.45:555][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003894s)
+[2024.12.30-22.06.45:555][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003929s)
+[2024.12.30-22.06.45:582][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-22.06.45:585][715]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.06.45:587][715]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2024.12.30-22.06.45:588][715]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.06.45:588][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.06.45:588][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.06.45:588][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.06.45:588][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.06.45:588][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.06.45:590][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.06.45:616][715]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.06.45:616][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.06.45:616][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.06.45:616][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.06.45:617][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.30-22.06.45:617][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.30-22.06.45:619][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.30-22.06.45:619][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.30-22.06.45:619][715]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.30-22.06.45:619][715]LogAudio: Display: Audio Device (ID: 14) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.06.45:619][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.30-22.06.45:622][715]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.06.45:623][715]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.06.45
+[2024.12.30-22.06.45:624][715]LogWorld: Bringing up level for play took: 0.001253
+[2024.12.30-22.06.45:625][715]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.12.30-22.06.45:632][715]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.06.45:635][715]PIE: Server logged in
+[2024.12.30-22.06.45:636][715]PIE: Play in editor total start time 0.118 seconds.
+[2024.12.30-22.06.47:921][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.06.47:921][975]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.06.47:922][975]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.06.47:922][975]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.06.47:922][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.06.47:927][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.06.47:935][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.06.47:962][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.06.47:962][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.30-22.06.47:962][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.30-22.06.47:964][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.30-22.06.47:971][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.30-22.06.48:018][976]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.12.30-22.07.28:736][135]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-22.07.36:783][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.30-22.07.37:654][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.07.37:717][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.30-22.07.37:738][151]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-22.07.37:739][151]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_01B34BF2B34D7AEF2492856EBB40F27AA2.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-22.07.37:746][151]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.071
+[2024.12.30-22.07.37:754][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.020 ms (total: 2.20 sec)
+[2024.12.30-22.07.37:773][151]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.07.37:773][151]LogContentValidation: Enabled validators:
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.07.37:773][151]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.07.37:773][151]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-22.07.38:979][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.07.38:991][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.07.38:991][288]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.07.38:995][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003853s)
+[2024.12.30-22.07.38:995][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003882s)
+[2024.12.30-22.07.39:020][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.30-22.07.39:022][288]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.07.39:024][288]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2024.12.30-22.07.39:024][288]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.07.39:024][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.07.39:024][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.07.39:024][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.07.39:024][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.07.39:025][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.07.39:027][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.07.39:052][288]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.07.39:052][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.07.39:052][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.07.39:052][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.07.39:052][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.30-22.07.39:052][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.30-22.07.39:054][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.30-22.07.39:054][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.30-22.07.39:054][288]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.30-22.07.39:054][288]LogAudio: Display: Audio Device (ID: 15) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.07.39:054][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.30-22.07.39:057][288]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.07.39:058][288]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.07.39
+[2024.12.30-22.07.39:059][288]LogWorld: Bringing up level for play took: 0.001326
+[2024.12.30-22.07.39:061][288]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.12.30-22.07.39:069][288]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.07.39:071][288]PIE: Server logged in
+[2024.12.30-22.07.39:072][288]PIE: Play in editor total start time 0.081 seconds.
+[2024.12.30-22.08.23:582][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.08.23:582][586]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.08.23:582][586]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.08.23:582][586]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.08.23:582][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.08.23:587][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.08.23:595][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.08.23:621][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.08.23:621][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.30-22.08.23:621][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.30-22.08.23:623][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.30-22.08.23:631][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.30-22.08.23:677][587]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.12.30-22.08.42:796][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-22.08.43:330][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.08.43:362][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-22.08.43:362][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-22.08.43:362][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-22.08.43:365][880]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-22.08.43:366][880]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorldE722A57E4DA921EF73D2A6838FBCBAB9.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-22.08.43:372][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.194 ms (total: 2.24 sec)
+[2024.12.30-22.08.43:395][880]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.08.43:395][880]LogContentValidation: Enabled validators:
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.08.43:395][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.08.43:395][880]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-22.08.44:353][981]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.08.44:359][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.08.44:381][981]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.08.44:385][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003846s)
+[2024.12.30-22.08.44:385][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003881s)
+[2024.12.30-22.08.44:414][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.12.30-22.08.44:416][981]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.08.44:418][981]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2024.12.30-22.08.44:419][981]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.08.44:419][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.08.44:419][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.08.44:419][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.08.44:419][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.08.44:419][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.08.44:421][981]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.08.44:446][981]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.08.44:447][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.08.44:447][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.08.44:447][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.08.44:448][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.30-22.08.44:448][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.30-22.08.44:449][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.30-22.08.44:449][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.30-22.08.44:449][981]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.30-22.08.44:449][981]LogAudio: Display: Audio Device (ID: 16) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.08.44:449][981]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.30-22.08.44:452][981]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.08.44:452][981]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.08.44
+[2024.12.30-22.08.44:453][981]LogWorld: Bringing up level for play took: 0.001263
+[2024.12.30-22.08.44:455][981]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.12.30-22.08.44:463][981]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.08.44:465][981]PIE: Server logged in
+[2024.12.30-22.08.44:466][981]PIE: Play in editor total start time 0.107 seconds.
+[2024.12.30-22.09.01:682][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.09.01:682][ 23]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.09.01:682][ 23]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.09.01:682][ 23]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.09.01:683][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.09.01:687][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.09.01:695][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.09.01:720][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.09.01:721][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.30-22.09.01:721][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.30-22.09.01:723][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.30-22.09.01:729][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.30-22.09.01:777][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.12.30-22.09.06:883][619]LogEditorTransaction: Undo Delete current selection
+[2024.12.30-22.09.12:111][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-22.09.12:702][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.09.12:723][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-22.09.12:723][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-22.09.12:723][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-22.09.12:728][225]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-22.09.12:729][225]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld5949DA0D486EF25F1009509C2C5B72D8.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-22.09.12:737][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.341 ms (total: 2.27 sec)
+[2024.12.30-22.09.12:765][225]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.09.12:765][225]LogContentValidation: Enabled validators:
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.09.12:765][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.09.12:765][225]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-22.09.55:805][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-22.09.56:489][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.09.56:518][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.09.56:518][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.09.56:518][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.09.56:524][340]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.09.56:525][340]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager87F2804746F0BB1750CB8790213982C5.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.09.56:532][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.653 ms (total: 2.32 sec)
+[2024.12.30-22.09.56:553][340]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.09.56:553][340]LogContentValidation: Enabled validators:
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.09.56:553][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.09.56:553][340]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.10.13:048][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.30-22.10.13:585][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.10.13:611][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.10.13:611][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.10.13:611][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.10.13:618][299]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.10.13:618][299]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManagerD788ACAF4EA705BDBED27C916568317C.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.10.13:625][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.204 ms (total: 2.36 sec)
+[2024.12.30-22.10.13:646][299]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.10.13:646][299]LogContentValidation: Enabled validators:
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.10.13:646][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.10.13:646][299]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.10.14:729][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.10.14:734][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.10.14:772][407]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.10.14:775][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003805s)
+[2024.12.30-22.10.14:776][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003840s)
+[2024.12.30-22.10.14:802][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-22.10.14:806][407]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.10.14:807][407]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2024.12.30-22.10.14:808][407]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.10.14:808][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.10.14:808][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.10.14:808][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.10.14:808][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.10.14:808][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.10.14:810][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.10.14:837][407]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.10.14:837][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.10.14:837][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.10.14:837][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.10.14:838][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.30-22.10.14:838][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.30-22.10.14:840][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.30-22.10.14:840][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.30-22.10.14:840][407]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.30-22.10.14:840][407]LogAudio: Display: Audio Device (ID: 17) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.10.14:840][407]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.30-22.10.14:842][407]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.10.14:843][407]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.10.14
+[2024.12.30-22.10.14:844][407]LogWorld: Bringing up level for play took: 0.001284
+[2024.12.30-22.10.14:846][407]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.12.30-22.10.14:853][407]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.10.14:855][407]PIE: Server logged in
+[2024.12.30-22.10.14:856][407]PIE: Play in editor total start time 0.122 seconds.
+[2024.12.30-22.10.45:752][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.10.45:752][ 68]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.10.45:752][ 68]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.10.45:753][ 68]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.10.45:753][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.10.45:764][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.10.45:771][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.10.45:796][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.10.45:797][ 68]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.30-22.10.45:797][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.30-22.10.45:799][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.30-22.10.45:804][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.30-22.10.45:854][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.12.30-22.10.50:658][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3193.147705
+[2024.12.30-22.10.50:757][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-22.10.50:757][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3193.239258, Update Interval: 330.793793
+[2024.12.30-22.11.11:695][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.30-22.11.11:700][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.11.11:725][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.11.11:725][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.11.11:725][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.11.11:730][109]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.11.11:731][109]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager4EFE8AD5449058D9C5F7F190C3B69555.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.11.11:737][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.812 ms (total: 2.39 sec)
+[2024.12.30-22.11.11:767][109]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.11.11:767][109]LogContentValidation: Enabled validators:
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.11.11:767][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.11.11:767][109]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.13.10:436][911]LogBlueprint: Error: [AssetLog] C:\code\2024Q4\BlockStacking2024\BlockStacking\Content\World\BP_WorldCopiesManager.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Vector is not compatible with Float (double-precision).' at  vector * vector
+[2024.12.30-22.13.10:437][911]LogBlueprint: Error: [AssetLog] C:\code\2024Q4\BlockStacking2024\BlockStacking\Content\World\BP_WorldCopiesManager.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Vector' on ' vector * vector '
+[2024.12.30-22.13.10:498][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.30-22.13.11:111][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.13.11:136][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.13.11:136][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.13.11:136][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.13.11:142][977]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.13.11:143][977]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManager832CE90B446ACC860E33868B95617B2C.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.13.11:150][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.380 ms (total: 2.43 sec)
+[2024.12.30-22.13.11:178][977]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.13.11:178][977]LogContentValidation: Enabled validators:
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.13.11:178][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.13.11:178][977]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.13.27:543][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.30-22.13.28:217][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.13.28:236][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_WorldCopiesManager] ([2] browsable assets)...
+[2024.12.30-22.13.28:237][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_WorldCopiesManager]
+[2024.12.30-22.13.28:237][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_WorldCopiesManager" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset" SILENT=true
+[2024.12.30-22.13.28:242][928]LogSavePackage: Moving output files for package: /Game/World/BP_WorldCopiesManager
+[2024.12.30-22.13.28:243][928]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_WorldCopiesManagerD981605342697F9EB13648AD0F01F491.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset'
+[2024.12.30-22.13.28:249][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.180 ms (total: 2.46 sec)
+[2024.12.30-22.13.28:280][928]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.13.28:280][928]LogContentValidation: Enabled validators:
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.13.28:280][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.13.28:280][928]AssetCheck: /Game/World/BP_WorldCopiesManager Validating asset
+[2024.12.30-22.13.31:096][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.13.31:101][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.13.31:102][244]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.13.31:105][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003796s)
+[2024.12.30-22.13.31:105][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003826s)
+[2024.12.30-22.13.31:132][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-22.13.31:134][244]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.13.31:136][244]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2024.12.30-22.13.31:137][244]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.13.31:137][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.13.31:137][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.13.31:137][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.13.31:137][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.13.31:137][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.13.31:140][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.13.31:168][244]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.13.31:168][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.13.31:168][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.13.31:168][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.13.31:169][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.30-22.13.31:169][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.30-22.13.31:170][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.30-22.13.31:170][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.30-22.13.31:170][244]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.30-22.13.31:170][244]LogAudio: Display: Audio Device (ID: 18) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.13.31:170][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.30-22.13.31:172][244]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.13.31:173][244]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.13.31
+[2024.12.30-22.13.31:174][244]LogWorld: Bringing up level for play took: 0.001273
+[2024.12.30-22.13.31:176][244]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.12.30-22.13.31:183][244]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.13.31:186][244]PIE: Server logged in
+[2024.12.30-22.13.31:187][244]PIE: Play in editor total start time 0.086 seconds.
+[2024.12.30-22.13.55:252][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.13.55:252][ 98]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.13.55:252][ 98]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.13.55:252][ 98]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.13.55:252][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.13.55:262][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.13.55:269][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.13.55:296][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.13.55:296][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.30-22.13.55:296][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.30-22.13.55:298][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.30-22.13.55:304][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-22.13.55:353][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.12.30-22.14.01:188][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.14.01:255][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.30-22.14.01:276][774]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-22.14.01:276][774]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_018A9C9E034B35ADECB412D19560BC6211.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-22.14.01:284][774]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.069
+[2024.12.30-22.14.01:291][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.233 ms (total: 2.57 sec)
+[2024.12.30-22.14.01:319][774]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.14.01:319][774]LogContentValidation: Enabled validators:
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.14.01:319][774]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.14.01:320][774]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-22.14.02:159][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.14.02:165][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.14.02:201][871]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.14.02:205][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004028s)
+[2024.12.30-22.14.02:205][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.004063s)
+[2024.12.30-22.14.02:232][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.14.02:234][871]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.14.02:235][871]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2024.12.30-22.14.02:236][871]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.14.02:236][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.14.02:236][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.14.02:236][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.14.02:236][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.14.02:236][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.14.02:239][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.14.02:264][871]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.14.02:264][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.14.02:264][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.14.02:264][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.14.02:264][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.30-22.14.02:265][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.30-22.14.02:266][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.30-22.14.02:266][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.30-22.14.02:266][871]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.30-22.14.02:266][871]LogAudio: Display: Audio Device (ID: 19) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.14.02:266][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.30-22.14.02:269][871]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.14.02:269][871]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.14.02
+[2024.12.30-22.14.02:270][871]LogWorld: Bringing up level for play took: 0.001244
+[2024.12.30-22.14.02:272][871]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.12.30-22.14.02:278][871]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.14.02:281][871]PIE: Server logged in
+[2024.12.30-22.14.02:282][871]PIE: Play in editor total start time 0.117 seconds.
+[2024.12.30-22.14.07:322][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.14.07:322][455]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.14.07:322][455]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.14.07:322][455]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.14.07:322][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.14.07:327][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.14.07:334][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.14.07:361][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.14.07:361][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.30-22.14.07:361][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.30-22.14.07:362][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.30-22.14.07:368][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.30-22.14.07:417][456]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.12.30-22.14.46:896][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.12.30-22.14.47:297][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.14.47:317][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-22.14.47:318][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-22.14.47:318][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-22.14.47:322][ 69]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-22.14.47:323][ 69]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld8FA596FE496374EE552D9E9C9C63EB46.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-22.14.47:330][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.074 ms (total: 2.60 sec)
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: Enabled validators:
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.14.47:358][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.14.47:358][ 69]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-22.14.48:396][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.14.48:402][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.14.48:432][172]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.14.48:436][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003786s)
+[2024.12.30-22.14.48:436][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003819s)
+[2024.12.30-22.14.48:461][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-22.14.48:464][172]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.14.48:466][172]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2024.12.30-22.14.48:467][172]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.14.48:467][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.14.48:467][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.14.48:467][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.14.48:467][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.14.48:467][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.14.48:469][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.14.48:496][172]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.14.48:496][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.14.48:496][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.14.48:496][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.14.48:497][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.12.30-22.14.48:497][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.12.30-22.14.48:499][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.12.30-22.14.48:499][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.12.30-22.14.48:499][172]LogInit: FAudioDevice initialized with ID 20.
+[2024.12.30-22.14.48:499][172]LogAudio: Display: Audio Device (ID: 20) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.14.48:499][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.30-22.14.48:502][172]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.14.48:502][172]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.14.48
+[2024.12.30-22.14.48:503][172]LogWorld: Bringing up level for play took: 0.001291
+[2024.12.30-22.14.48:505][172]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.12.30-22.14.48:511][172]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.14.48:514][172]PIE: Server logged in
+[2024.12.30-22.14.48:515][172]PIE: Play in editor total start time 0.113 seconds.
+[2024.12.30-22.14.53:722][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.14.53:722][772]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.14.53:722][772]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.14.53:722][772]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.14.53:722][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.14.53:727][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.14.53:734][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.14.53:761][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.14.53:762][772]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.30-22.14.53:762][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.30-22.14.53:764][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.30-22.14.53:770][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-22.14.53:819][773]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.12.30-22.15.08:316][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-22.15.08:737][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.15.08:763][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/BP_InteractableWorld] ([2] browsable assets)...
+[2024.12.30-22.15.08:763][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/BP_InteractableWorld]
+[2024.12.30-22.15.08:763][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BP_InteractableWorld" FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset" SILENT=true
+[2024.12.30-22.15.08:767][529]LogSavePackage: Moving output files for package: /Game/World/BP_InteractableWorld
+[2024.12.30-22.15.08:767][529]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/BP_InteractableWorld58571B8D42647047D26F49BC037DC3F2.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset'
+[2024.12.30-22.15.08:774][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.085 ms (total: 2.64 sec)
+[2024.12.30-22.15.08:803][529]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.15.08:803][529]LogContentValidation: Enabled validators:
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.15.08:803][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.15.08:803][529]AssetCheck: /Game/World/BP_InteractableWorld Validating asset
+[2024.12.30-22.15.09:908][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-22.15.09:913][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-22.15.09:962][649]LogPlayLevel: Creating play world package: /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.15.09:965][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003928s)
+[2024.12.30-22.15.09:965][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/PrototypeMap_01.PrototypeMap_01 to /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 (0.003963s)
+[2024.12.30-22.15.09:991][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.30-22.15.09:995][649]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-22.15.09:996][649]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2024.12.30-22.15.09:997][649]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-22.15.09:997][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-22.15.09:997][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-22.15.09:997][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-22.15.09:997][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-22.15.09:997][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-22.15.09:999][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-22.15.10:024][649]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.30-22.15.10:024][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-22.15.10:024][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-22.15.10:024][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-22.15.10:025][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.30-22.15.10:025][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.12.30-22.15.10:027][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.30-22.15.10:027][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.30-22.15.10:027][649]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.30-22.15.10:027][649]LogAudio: Display: Audio Device (ID: 21) registered with world 'PrototypeMap_01'.
+[2024.12.30-22.15.10:027][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.30-22.15.10:029][649]LogLoad: Game class is 'GMB_BlockStacking_C'
+[2024.12.30-22.15.10:031][649]LogWorld: Bringing World /Game/Environment/UEDPIE_0_PrototypeMap_01.PrototypeMap_01 up for play (max tick rate 0) at 2024.12.30-17.15.10
+[2024.12.30-22.15.10:031][649]LogWorld: Bringing up level for play took: 0.001246
+[2024.12.30-22.15.10:032][649]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.12.30-22.15.10:038][649]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.30-22.15.10:041][649]PIE: Server logged in
+[2024.12.30-22.15.10:042][649]PIE: Play in editor total start time 0.128 seconds.
+[2024.12.30-22.15.23:382][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.15.23:382][209]LogWorld: BeginTearingDown for /Game/Environment/UEDPIE_0_PrototypeMap_01
+[2024.12.30-22.15.23:382][209]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-22.15.23:382][209]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-22.15.23:382][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.15.23:387][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-22.15.23:395][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-22.15.23:421][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-22.15.23:422][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.30-22.15.23:422][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.30-22.15.23:425][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.30-22.15.23:431][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.30-22.15.23:480][210]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.12.30-22.16.53:152][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3555.629883
+[2024.12.30-22.16.53:243][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-22.16.53:243][949]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3555.713623, Update Interval: 355.191498

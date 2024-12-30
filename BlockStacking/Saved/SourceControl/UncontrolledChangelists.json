@@ -11,7 +11,10 @@
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/GMB_BlockStacking.uasset",
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/IMC_FloatingCamera.uasset",
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Look.uasset",
-				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Move.uasset"
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Move.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset"
 			]
 		}
 	]
