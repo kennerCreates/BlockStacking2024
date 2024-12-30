@@ -1402,3 +1402,84 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-21.17.48:644][592]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2024.12.30-21.17.48:659][592]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2024.12.30-21.18.43:424][756]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.30-21.19.19:280][236]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-21.19.33:859][937]LogDerivedDataCache: C:/Users/laure/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.30-21.20.43:193][ 38]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.30-21.20.43:198][ 38]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.30-21.20.43:204][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.30-21.20.49:324][762]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2024.12.30-21.20.49:324][762]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.30-21.20.49:974][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.30-21.20.57:243][671]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-21.21.01:985][231]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.21.05:025][231]LogSlate: Window 'New Level' being destroyed
+[2024.12.30-21.21.05:060][231]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.21.05:061][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.21.05:061][231]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.12.30-21.21.05:073][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-21.21.05:091][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.30-21.21.05:094][231]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2024.12.30-21.21.05:099][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.30-21.21.05:179][234]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 37.14 ms. Compile time 34.35 ms, link time 2.77 ms.
+[2024.12.30-21.21.05:234][234]LogD3D12RHI: Creating RTPSO with 13 shaders (0 cached, 13 new) took 91.93 ms. Compile time 81.65 ms, link time 10.26 ms.
+[2024.12.30-21.21.14:934][378]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.21.16:344][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.16:344][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.16:593][378]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.30-21.21.16:593][378]r.VolumetricRenderTarget.Mode = "2"
+[2024.12.30-21.21.16:602][378]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2024.12.30-21.21.16:609][378]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_0
+[2024.12.30-21.21.16:617][378]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_0
+[2024.12.30-21.21.17:327][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.30-21.21.17:328][399]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2024.12.30-21.21.17:792][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.17:792][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.17:802][450]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_1
+[2024.12.30-21.21.17:811][450]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_1
+[2024.12.30-21.21.18:477][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.30-21.21.18:482][494]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2024.12.30-21.21.18:488][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.18:488][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.30-21.21.18:501][494]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_2
+[2024.12.30-21.21.18:511][494]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_2
+[2024.12.30-21.21.24:236][928]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.30-21.21.24:712][972]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.21.28:226][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.30-21.21.28:226][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.30-21.21.28:227][212]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.21.28:810][212]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_0
+[2024.12.30-21.21.28:820][212]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_0
+[2024.12.30-21.21.29:122][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.30-21.21.29:178][225]LogEditorActor: Deleted 0 Actors (0.095 secs)
+[2024.12.30-21.21.29:185][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.30-21.21.29:185][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.30-21.21.29:198][225]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_1
+[2024.12.30-21.21.29:209][225]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_2.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_1
+[2024.12.30-21.21.31:949][508]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.30-21.21.51:714][247]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.30-21.21.51:785][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.30-21.21.51:805][247]LogSavePackage: Moving output files for package: /Game/Environment/PrototypeMap_01
+[2024.12.30-21.21.51:805][247]LogSavePackage: Moving '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Saved/PrototypeMap_016CEDB63B4D3FA992B4A257960AD3DB01.tmp' to '../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap'
+[2024.12.30-21.21.51:819][247]LogFileHelpers: Saving map 'PrototypeMap_01' took 0.098
+[2024.12.30-21.21.51:819][247]Cmd: MAP LOAD FILE="../../../../../../code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.30-21.21.51:833][247]LogWorld: UWorld::CleanupWorld for PrototypeMap_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.21.51:833][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.21.51:852][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-21.21.51:854][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.30-21.21.51:856][247]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.21.51:872][247]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypeMap_01'.
+[2024.12.30-21.21.51:872][247]LogChaosDD: Creating Chaos Debug Draw Scene for world PrototypeMap_01
+[2024.12.30-21.21.51:906][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.30-21.21.51:930][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.30-21.21.51:934][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.30-21.21.51:934][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.039ms to complete.
+[2024.12.30-21.21.51:960][247]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-21.21.51:960][247]LogContentValidation: Enabled validators:
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.21.51:960][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.21.51:960][247]AssetCheck: /Game/Environment/PrototypeMap_01 Validating asset
+[2024.12.30-21.21.52:566][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
