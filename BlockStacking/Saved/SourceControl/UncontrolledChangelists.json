@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/Environment/PrototypeMap_01.umap",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/Characters/Player/BP_Pawn_Player.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/Characters/Player/BP_Controller_Player.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/GMB_BlockStacking.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/IMC_FloatingCamera.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Look.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Move.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset"
+			]
+		}
+	]
+}
