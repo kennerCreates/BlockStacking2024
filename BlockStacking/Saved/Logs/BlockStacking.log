@@ -1387,3 +1387,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.31-01.17.30:749][ 49]LogFab: Display: User logged in
 [2024.12.31-01.17.30:749][ 49]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2024.12.31-01.17.30:829][ 57]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-tNgb-ZHx8Uy7ZuIS3ygGNw-sJ-_X15oTUuGciUfaQZeFw]
+[2024.12.31-01.17.43:446][303]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.31-01.17.43:449][303]LogSlate: Window 'Project Settings' being destroyed
