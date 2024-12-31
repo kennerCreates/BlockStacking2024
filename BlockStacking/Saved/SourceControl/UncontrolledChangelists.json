@@ -14,7 +14,9 @@
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/GamePlay/Input/Actions/IA_Move.uasset",
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_InteractableWorld.uasset",
 				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopiesManager.uasset",
-				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset"
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/World/BP_WorldCopies.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/Materials/PostProcess/MI_PP_CelShader_A.uasset",
+				"C:/code/2024Q4/BlockStacking2024/BlockStacking/Content/Materials/PostProcess/MAT_PP_CelShader.uasset"
 			]
 		}
 	]
